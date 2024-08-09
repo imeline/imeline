@@ -36,10 +36,10 @@
 <div>
   <a href="https://velog.io/@imeline">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
-  </a>
+  </a> 
 </div>
 
-<!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=imeline)](https://velog.io/@imeline/posts) -->
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=imeline)](https://velog.io/@imeline/posts)
 
 <h3>📫 Contact 📫</h3>
 <div>
