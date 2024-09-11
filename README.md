@@ -49,6 +49,6 @@
   </a>
 </div>
 
-----
+<!--  ----
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=imeline&theme=material-palenight&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imeline&layout=compact)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=imeline&theme=material-palenight&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imeline&layout=compact) -->
